@@ -10,6 +10,7 @@ Install the tool by typing the following commands
 `cd discord-webhook-termux`
 
 ### then change the webhook URL from the script hook.sh to your webhook URL and type the following commands 
-`chmod +x hook && ./hook.sh <the message>`
-replace the <the message> with whatever the message you want to send, it's that easy!
+`chmod +x hook && ./hook.sh the message`
+replace the <
+'the message' with whatever the message you want to send, it's that easy!
 
